@@ -7,4 +7,4 @@ def shorturl(url):
 
     return res.json()['short']
 
-  //shorturl('https://www.google.com')
+#shorturl('https://www.google.com')
